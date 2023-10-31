@@ -284,7 +284,6 @@ document.body.innerHTML = "<style>" +cCODESTRING+"</style>"+codeHTML;
 //location.reload();
 
 }
-load_code();
 
 function open_psa_link(){
 linker = "https://psa.gov.ph/classification/psic/subclass";
